@@ -8,4 +8,4 @@ resources:
 images:
 - name: goserver
   newName: tiagodevweb/gitops-argo
-  newTag: sha
+  newTag: 5b3e6c789eb46d151557e320eaa2a2af83c77d54
